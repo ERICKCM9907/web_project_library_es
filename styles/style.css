@@ -49,8 +49,9 @@
 
 .header__title {
   max-width: 635px;
-  font-size: 50px;
-  line-height: normal;
+  font-size: 62px;
+  font-weight: 500;
+  line-height: 76px;
   margin-top: 128px;
 }
 
@@ -58,7 +59,7 @@
   max-width: 515px;
   margin-top: 32px;
   font-size: 20px;
-  line-height: normal;
+  line-height: 30px;
 }
 
 .header__image {
@@ -110,13 +111,14 @@
 
 .staff__cards {
   max-width: 760px;
-  margin: 60px auto;
+  margin-top: 60px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 40px;
   list-style-type: none;
   padding-left: 0px;
+  margin-bottom: 40px;
 }
 
 .card {
