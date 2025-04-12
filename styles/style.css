@@ -111,16 +111,13 @@
 
 .staff__cards {
   max-width: 760px;
-  margin-top: 60px;
-  margin-bottom: auto;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 68px auto 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 40px;
+  gap: 40px 40px;
   list-style-type: none;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .card {
