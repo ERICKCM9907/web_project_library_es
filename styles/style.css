@@ -341,14 +341,10 @@
 
 .footer__columns {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
 }
 
 .footer__column_content_hours {
   font-size: small;
-  position: absolute;
-  right: 250px;
   margin-left: auto;
 }
 
@@ -388,8 +384,8 @@
 }
 
 .footer__social-icon {
-  width: 60px;
-  height: 60px;
+  width: 16px;
+  height: 16px;
 }
 
 .footer__copyright {
