@@ -308,11 +308,11 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  column-gap: 40px;
 }
 
 .step {
   flex-basis: 220px;
-  margin-right: 40px;
 }
 
 .step__title {
@@ -368,6 +368,8 @@
   text-decoration: none;
   color: #ffffff;
   list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .footer__list-item {
